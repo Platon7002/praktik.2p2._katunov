@@ -1,4 +1,4 @@
-# prakt-2p2
+
 
 ## Установка зависимостей
 ```pip install pytest pytest-cov coverage```
