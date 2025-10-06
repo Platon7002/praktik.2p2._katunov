@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "prakt-2p2"
 version = "0.1.0"
 authors = [
-    {name = "George Sagomonov", email = "george.sagomonov@gmail.com"},
+    {name = "Katunov Platon", email = "platonlap@mail.ru"},
 ]
 description = "Form validation and template matching system"
 readme = "README.md"
